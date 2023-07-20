@@ -12,4 +12,7 @@
  - [Weird Algorithm](<Introductory Problems/Weird Algorithm.py>)
   
 ### Searching and Sorting
- - 
+ - [Distinct Numbers](<Searching and sorting/Distinct Numbers.py>)
+ - [Apartments](<Searching and sorting/Apartments.py>)
+ - [Concert Tickets](<Searching and sorting/Concert Tickets.py>)
+ - [Ferris Wheel](<Searching and sorting/Ferris Wheel.py>)
